@@ -5,7 +5,6 @@ SalesForecast AI is an intelligent data-driven solution designed to predict and 
 ---
 
 ## 📸 Application Previews
-*(To view these metrics locally, please save your screenshots inside an `assets` folder in the root directory)*
 
 **1. Intelligence Summary Dashboard & Metric Forecasting**
 ![Dashboard Preview](assets/dashboard_preview.png)
