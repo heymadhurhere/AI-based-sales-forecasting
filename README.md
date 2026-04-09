@@ -4,6 +4,17 @@ SalesForecast AI is an intelligent data-driven solution designed to predict and 
 
 ---
 
+## 📸 Application Previews
+*(To view these metrics locally, please save your screenshots inside an `assets` folder in the root directory)*
+
+**1. Intelligence Summary Dashboard & Metric Forecasting**
+![Dashboard Preview](assets/dashboard_preview.png)
+
+**2. Projected Revenue Breakdown & Data Export**
+![Data Export](assets/data_export_view.png)
+
+---
+
 ## 🧠 What This Project Does
 
 SalesForecast AI is designed to act as an automated "Analyst in the Loop" for business revenue projections. At its core, the application ingests raw historical sales data, smooths out volatility, and algorithmically projects the trajectory of future sales volume. It empowers business leaders, marketing directors, and stakeholders to:
